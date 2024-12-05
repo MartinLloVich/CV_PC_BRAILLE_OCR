@@ -1,0 +1,9 @@
+path: .
+train: images/train
+validation: images/validation
+test: images/test
+
+names:
+  0: "a"
+  1: "b"
+  2: "c"
