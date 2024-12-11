@@ -1,0 +1,83 @@
+Letra: a
+  Aprobados: 30
+  Reprobados: 0
+Letra: b
+  Aprobados: 30
+  Reprobados: 0
+Letra: c
+  Aprobados: 30
+  Reprobados: 0
+Letra: d
+  Aprobados: 16
+  Reprobados: 14
+Letra: e
+  Aprobados: 11
+  Reprobados: 19
+Letra: f
+  Aprobados: 11
+  Reprobados: 19
+Letra: g
+  Aprobados: 30
+  Reprobados: 0
+Letra: h
+  Aprobados: 18
+  Reprobados: 12
+Letra: i
+  Aprobados: 20
+  Reprobados: 10
+Letra: j
+  Aprobados: 12
+  Reprobados: 18
+Letra: k
+  Aprobados: 30
+  Reprobados: 0
+Letra: l
+  Aprobados: 30
+  Reprobados: 0
+Letra: m
+  Aprobados: 29
+  Reprobados: 1
+Letra: n
+  Aprobados: 30
+  Reprobados: 0
+Letra: o
+  Aprobados: 30
+  Reprobados: 0
+Letra: p
+  Aprobados: 30
+  Reprobados: 0
+Letra: q
+  Aprobados: 30
+  Reprobados: 0
+Letra: r
+  Aprobados: 12
+  Reprobados: 18
+Letra: s
+  Aprobados: 30
+  Reprobados: 0
+Letra: t
+  Aprobados: 30
+  Reprobados: 0
+Letra: u
+  Aprobados: 30
+  Reprobados: 0
+Letra: v
+  Aprobados: 30
+  Reprobados: 0
+Letra: w
+  Aprobados: 15
+  Reprobados: 15
+Letra: x
+  Aprobados: 30
+  Reprobados: 0
+Letra: y
+  Aprobados: 30
+  Reprobados: 0
+Letra: z
+  Aprobados: 30
+  Reprobados: 0
+
+Total de imagenes analizadas: 780
+Total de aprobados: 654
+Total de reprobados: 126
+Tiempo total de simulacion: 10.79 segundos
