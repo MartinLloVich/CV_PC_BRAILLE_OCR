@@ -1,0 +1,83 @@
+Letter: a
+  Approved: 30
+  Disapproved: 0
+Letter: b
+  Approved: 30
+  Disapproved: 0
+Letter: c
+  Approved: 30
+  Disapproved: 0
+Letter: d
+  Approved: 29
+  Disapproved: 1
+Letter: e
+  Approved: 14
+  Disapproved: 16
+Letter: f
+  Approved: 11
+  Disapproved: 19
+Letter: g
+  Approved: 30
+  Disapproved: 0
+Letter: h
+  Approved: 17
+  Disapproved: 13
+Letter: i
+  Approved: 26
+  Disapproved: 4
+Letter: j
+  Approved: 21
+  Disapproved: 9
+Letter: k
+  Approved: 30
+  Disapproved: 0
+Letter: l
+  Approved: 30
+  Disapproved: 0
+Letter: m
+  Approved: 30
+  Disapproved: 0
+Letter: n
+  Approved: 30
+  Disapproved: 0
+Letter: o
+  Approved: 30
+  Disapproved: 0
+Letter: p
+  Approved: 30
+  Disapproved: 0
+Letter: q
+  Approved: 30
+  Disapproved: 0
+Letter: r
+  Approved: 21
+  Disapproved: 9
+Letter: s
+  Approved: 30
+  Disapproved: 0
+Letter: t
+  Approved: 30
+  Disapproved: 0
+Letter: u
+  Approved: 30
+  Disapproved: 0
+Letter: v
+  Approved: 30
+  Disapproved: 0
+Letter: w
+  Approved: 17
+  Disapproved: 13
+Letter: x
+  Approved: 30
+  Disapproved: 0
+Letter: y
+  Approved: 30
+  Disapproved: 0
+Letter: z
+  Approved: 30
+  Disapproved: 0
+
+Total images analyzed: 780
+Total approved: 696
+Total disapproved: 84
+Total simulation time: 11.55 seconds
