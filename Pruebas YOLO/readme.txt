@@ -1,6 +1,6 @@
-En esta carpeta se pueden ejecutar pruebas con el agente de YOLO, para ello se deben de seguir los siguientes pasos:
+In this folder you can run tests with the YOLO agent by following the steps below:
 
-1- Cargar la imagen a analizar
-2- En el codigo predict.py poner el nombre de la imagen en la linea 11
-3- Ejecutar predict
-4- La imagen analizada se exporta como un 
+- Load the image to analyze
+- In the predict.py code put the name of the image in line 11.
+- Execute predict
+- The analyzed image is exported with the name of the parent + _detect.png

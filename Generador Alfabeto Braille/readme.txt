@@ -1,7 +1,7 @@
-Para poder crear el dataset a partir del codigo se debe de seguir los siguientes pasos de ejecucion:
+In order to create the dataset from the code, the following execution steps must be followed:
 
 - Compilador.m
 - Comparador.py
 - relabel.py
 
-De esta forma el dataset esta listo para ser usado. 
+This way the dataset is ready to be used. 
