@@ -14,5 +14,8 @@ function transformed_img = apply_random_transformations(img, image_size)
     brightness_factor = 0.5 + rand * 0.5; % Factor de brillo entre 0.5 y 1
     transformed_img = transformed_img * brightness_factor;
     transformed_img = min(transformed_img, 1); % Limitar valores entre 0 y 1
+    
+    % Agregar ruido Salt and Pepper
+    noise_density = 0.02; % Densidad de ruido entre 0 y 1
+    transformed_img = imnoise(transformed_img, 'salt & pepper', noise_density);
 end
-

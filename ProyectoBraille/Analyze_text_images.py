@@ -16,7 +16,7 @@ def main():
     os.makedirs(disapproved_dir, exist_ok=True)
     
     # Initialize YOLO model
-    model = YOLO("runs/detect/train2/weights/best.pt")
+    model = YOLO("runs/detect/train/weights/best.pt")
 
     # Initialize counters
     results_summary = {}

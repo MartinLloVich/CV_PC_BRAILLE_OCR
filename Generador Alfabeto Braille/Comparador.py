@@ -38,4 +38,4 @@ for sub in subfolders:
         # Si no existe el label correspondiente, eliminamos la imagen
         if not os.path.exists(label_path):
             print(f"No existe etiqueta para {img_path}, eliminando la imagen...")
-            os.remove(img_path)
+            #os.remove(img_path)

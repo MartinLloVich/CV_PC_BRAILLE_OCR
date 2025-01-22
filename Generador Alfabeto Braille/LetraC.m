@@ -26,7 +26,7 @@ for i = 1:num_train + num_validation + num_test
     end
     
     % Crear la imagen base de la letra en Braille (gris claro)
-    base_img = create_braille_image(0.8);
+    base_img = create_braille_image(1);
     
     % Aplicar transformaciones aleatorias
     transformed_img = apply_transformations(base_img);

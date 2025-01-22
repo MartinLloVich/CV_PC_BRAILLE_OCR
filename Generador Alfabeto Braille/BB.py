@@ -2,8 +2,8 @@ import cv2
 import os
 
 # Rutas de la imagen y su etiqueta
-image_path = 'c_49.png'
-label_path = 'c_49.txt'
+image_path = 'z_164.png'
+label_path = 'z_164.txt'
 
 # Cargar la imagen
 img = cv2.imread(image_path)
