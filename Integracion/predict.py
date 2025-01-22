@@ -8,7 +8,7 @@ if __name__ == '__main__':
     base_dir = os.path.dirname(__file__)  # Directorio del script
 
     # Rutas relativas para los archivos
-    img_name = os.path.join(base_dir, "salida.png")
+    img_name = os.path.join(base_dir, "output.png")
     model_path = os.path.join(base_dir, "best.pt")
 
     # Carga la imagen
