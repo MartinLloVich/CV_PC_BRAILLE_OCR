@@ -1,0 +1,1 @@
+This is a project for the subject Computer Vision from the Polytechnic University of Madrid, Master's in Automation and Robotics. In this project, a computer vision program was developed to recognize and translate Braille characters, using computer vision techniques and Artificial Intelligence (YOLO).
